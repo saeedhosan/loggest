@@ -1,7 +1,7 @@
 [![npm version](https://badgen.net/npm/v/loggest)](https://www.npmjs.com/package/loggest)
 [![monthly downloads](https://badgen.net/npm/dm/loggest)](https://www.npmjs.com/package/loggest)
 [![types](https://badgen.net/npm/types/loggest)](https://github.com/saeedhosan/loggest/blob/main/src/types.ts)
-[![license](https://badgen.net/npm/license/loggest)](https://github.com/saeedhosan/loggest/blob/main/LICENSE)
+[![license](https://badgen.net/npm/license/loggest)](https://github.com/saeedhosan/loggest/blob/main/LICENSE.md)
 # Fast & Pluggable logger
 
 > A flexible, minimalistic logging utility package — fast and pluggable.
