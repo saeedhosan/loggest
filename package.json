@@ -23,11 +23,11 @@
     "node",
     "log"
   ],
-  "author": "Creator <appsaeed7@gmail.com>",
+  "author": "Creator <saeedhosansh@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "appsaeed/loggest"
+    "url": "saeedhosan/loggest"
   },
   "devDependencies": {
     "@eslint/js": "^9.27.0",
